@@ -1,0 +1,62 @@
+.center {
+    border: 3px solid;
+    text-align: center;
+}
+
+.border-for-buttons{
+    border: 3px solid black;
+    height: 600px;
+    width: 30%;
+    border-top: 0;
+}
+
+.main-border{
+    
+    overflow-y: scroll; 
+    border: 3px solid black;
+    height: 600px;
+    width: 70%;
+    border-top: 0;
+    border-left: 0;
+}
+
+.button {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 16px;
+    margin-top: 50px;
+}
+
+ul.no-bullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.welcome-text {
+    text-align: center;
+}
+
+ul.text-list {
+    list-style-type: circle;
+    margin-left: 5%
+}
+
+
+.img-ai{
+    width: 12%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
